@@ -1,0 +1,17 @@
+#cores1{
+    width: 700px;
+    height: 200px;
+    background-color: #40b78c;
+}
+
+#cores2{
+    width: 700px;
+    height: 200px;
+    background-color: rgba(230, 89, 225, 0.5);
+}
+
+#cores3{
+    width: 700px;
+    height: 200px;
+    background-color: hsl(20, 100%, 59%);
+}

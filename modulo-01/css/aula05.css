@@ -1,0 +1,20 @@
+*{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: justify;
+    box-sizing: border-box;
+}
+
+/* .nome da classe{}       #nome da id{} */
+
+.texto-principal{
+    color: red;
+    text-align: center;
+}
+.fundo-principal{
+    background-color: greenyellow;
+    padding: 20px;
+}
+#conteudo{
+    background-color: cornflowerblue;
+    padding: 20px;
+}

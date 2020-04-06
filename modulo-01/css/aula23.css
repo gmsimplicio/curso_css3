@@ -1,0 +1,28 @@
+.container{
+    background-color: yellow;
+    width: 450px;
+    margin: 0 auto;
+}
+
+.box1{
+    background-color: black;
+    width: 150px;
+    height: 250px;
+    float: left;
+}
+
+.box2{
+    background-color: red;
+    width: 150px;
+    height: 250px;
+    float: right;
+}
+
+.container::before, .container::after{
+    content: '';
+    display: table;
+}
+
+.container::after{
+    clear: both;
+}

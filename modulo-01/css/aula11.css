@@ -1,0 +1,15 @@
+*{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: justify;
+    box-sizing: border-box;
+}
+
+#conteudo{
+    background-color: red;
+    width: 300px;
+    height: 50px;
+    overflow: auto;
+}
+#conteudo p{
+    opacity: 0.8;
+}

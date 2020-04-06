@@ -1,0 +1,23 @@
+*{
+    background-color: seashell;
+}
+#grad{
+    width: 200px;
+    height: 200px;
+    background: linear-gradient(to top left, blue, red);
+}
+#grad2{
+    width: 200px;
+    height: 200px;
+    background: linear-gradient(45deg, blue, lime, yellow);
+}
+#grad3{
+    width: 200px;
+    height: 200px;
+    background: linear-gradient(to left, rgba(255,0,0,0), blue);
+}
+#rad{
+    width: 200px;
+    height: 200px;
+    background: radial-gradient(orange, red);
+}

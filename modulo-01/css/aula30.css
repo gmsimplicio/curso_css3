@@ -1,0 +1,7 @@
+body{
+    background-color: #62D;
+}
+img{
+    margin: 40px 0 0 60px;
+    filter: contrast(150%) drop-shadow(10px 20px 5px #000);
+}

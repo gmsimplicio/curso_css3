@@ -1,0 +1,14 @@
+*{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: justify;
+    box-sizing: border-box;
+}
+
+#conteudo{
+    min-width: 500px;
+    min-height: 20px;
+    background-color: green;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}

@@ -1,0 +1,41 @@
+*{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: justify;
+    box-sizing: border-box;
+}
+
+p{
+    color: red;
+    text-transform: none;
+    text-align: justify;
+    text-indent: 20px;
+    line-height: 25px;
+    direction: ltr;
+    letter-spacing: 3px;
+    word-spacing: 3px;
+}
+h1{
+    text-align: left;
+    text-decoration:
+    underline;
+    text-shadow: 1px 2px red;
+}
+h2{
+    text-align: right;
+    text-decoration: overline;
+}
+h3{
+    text-align: center;
+    text-decoration: line-through;
+}
+
+/* COLOR: cor
+TEXT-ALIGN: alinhamento
+TEXT-DECORATION: decora
+TEXT-TRANSFORM: altera propriedade
+TEXT-INDENT: coloca recuo na primeira linha do paragrafo
+LINE-HEIGHT: altura da linha
+DIRECTION: direção do texto
+LETTER-SPACING: espaçamento entre as letras
+WORD-SPACING: espaçamento entre as palavras
+TEXT-SHADOW: sombra no texto*/

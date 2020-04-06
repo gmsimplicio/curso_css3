@@ -1,0 +1,11 @@
+*{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: justify;
+    box-sizing: border-box;
+}
+
+h1{
+    color: blue;
+    font-size: 60px;
+    font-family: Tahoma, sans-serif;
+}
